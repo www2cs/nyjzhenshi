@@ -21,7 +21,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://git.oschina.net/iphone/raw/master/iPhoneIcon/appicon_114.png</string>
+					<string>https://raw.githubusercontent.com/www2cs/nyjzhenshi/master/Icon_512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://git.oschina.net/iphone/raw/master/iPhoneIcon/appicon_57.png</string>
+					<string>https://raw.githubusercontent.com/www2cs/nyjzhenshi/master/Icon_57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
